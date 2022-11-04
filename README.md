@@ -17,3 +17,6 @@
 ### Latihan 1 (Bertingkat)
 
 ![Screenshot (608)](https://user-images.githubusercontent.com/115686359/199923992-10ab4216-8b0b-4a86-a32c-84fc9608f08a.png)
+
+### Latihan 2 (Lebih kecil dari 0.5)
+
