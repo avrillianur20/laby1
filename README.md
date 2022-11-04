@@ -4,5 +4,8 @@
 
 # Praktikum-4
 
-## LAB 2
-### Latihan 1.
+## LAB 2 Struktur Kondisi
+### Latihan 1 Program menentukan 2 bilangan terbesar
+
+
+
