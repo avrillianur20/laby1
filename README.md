@@ -20,3 +20,4 @@
 
 ### Latihan 2 (Lebih kecil dari 0.5)
 
+![Screenshot (606)](https://user-images.githubusercontent.com/115686359/199925030-09547248-c6d8-402e-bbe3-a738463eaff6.png)
