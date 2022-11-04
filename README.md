@@ -11,3 +11,9 @@
 
 ### Latihan 2 (mengurutkan 3 variabel dari yang terkecil ke terbesar)
 
+![Screenshot (610)](https://user-images.githubusercontent.com/115686359/199923537-dcf865c6-eaa8-496d-8b81-f6ce6885cb11.png)
+
+## LAB 3 Perulangan
+### Latihan 1 (Bertingkat)
+
+![Screenshot (608)](https://user-images.githubusercontent.com/115686359/199923992-10ab4216-8b0b-4a86-a32c-84fc9608f08a.png)
