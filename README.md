@@ -26,3 +26,6 @@
 ### Tugas Praktikum 2 (nilai terbesar 2 angka)
 
 ![Screenshot (609)](https://user-images.githubusercontent.com/115686359/199919376-1f7b7d57-07bb-471c-a3a9-ce057e080538.png)
+
+## Modul Praktikum 3
+### Latihan 1
