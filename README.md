@@ -34,3 +34,11 @@
 
 ### Latihan 2
 
+![Screenshot (613)](https://user-images.githubusercontent.com/115686359/200101109-3932bb09-10ab-4335-9aec-b9f89dea19b8.png)
+
+### Latihan 3
+
+![Screenshot (611)](https://user-images.githubusercontent.com/115686359/200101167-c9b87b4b-e408-4f41-b5ac-ca8e7afb46a1.png)
+
+# SELESAI.
+
