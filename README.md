@@ -72,14 +72,20 @@ print("312210309")
 ### Latihan 2 (Lebih kecil dari 0.5)
 
 ```
-max=0
-while True:
-    a=int(input ('masukkan bilangan ='))
-    if max < a:
-        max=a
-    if a==0:
-        break
-print('bilangan terbesar adalah', max)
+print("======lathan 1======")
+
+print("masukkan nilai N:5")
+import random
+jumlah=5
+a=0
+
+for x in range(jumlah):
+    i=random.uniform(.0,.5)
+    a+=1
+    print('data ke:',a,'==>',i)
+print("=====SELESAI=====")
+print("avrillia nur hidayah")
+print("312210309")
 ```
 
 ![Screenshot (606)](https://user-images.githubusercontent.com/115686359/199925030-09547248-c6d8-402e-bbe3-a738463eaff6.png)
