@@ -71,15 +71,39 @@ print("312210309")
 
 ### Latihan 2 (Lebih kecil dari 0.5)
 
+```
+max=0
+while True:
+    a=int(input ('masukkan bilangan ='))
+    if max < a:
+        max=a
+    if a==0:
+        break
+print('bilangan terbesar adalah', max)
+```
+
 ![Screenshot (606)](https://user-images.githubusercontent.com/115686359/199925030-09547248-c6d8-402e-bbe3-a738463eaff6.png)
 
 ## Modul Praktikum 2
 ### Tugas Praktikum 2 (nilai terbesar 2 angka)
 
+```
+a=int(input("masukkan angka pertama: "))
+b=int(input("masukkan angka kedua:" ))
+print()
+if a>b:
+    print (a,"adalah angka terbesar")
+else:
+    b>a
+    print("angka terbesar:",b)
+```
+
 ![Screenshot (609)](https://user-images.githubusercontent.com/115686359/199919376-1f7b7d57-07bb-471c-a3a9-ce057e080538.png)
 
 ## Modul Praktikum 3
 ### Latihan 1
+
+```
 
 ![Screenshot (606)](https://user-images.githubusercontent.com/115686359/200100569-813710bb-55fe-4214-b7d6-ae7f78558250.png)
 
