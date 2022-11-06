@@ -103,7 +103,6 @@ else:
 ## Modul Praktikum 3
 ### Latihan 1
 
-```
 
 ![Screenshot (606)](https://user-images.githubusercontent.com/115686359/200100569-813710bb-55fe-4214-b7d6-ae7f78558250.png)
 
