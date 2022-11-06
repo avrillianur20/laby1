@@ -103,14 +103,63 @@ else:
 ## Modul Praktikum 3
 ### Latihan 1
 
+```
+print("======lathan 1======")
+
+print("masukkan nilai N:5")
+import random
+jumlah=5
+a=0
+
+for x in range(jumlah):
+    i=random.uniform(.0,.5)
+    a+=1
+    print('data ke:',a,'==>',i)
+print("=====SELESAI=====")
+print("avrillia nur hidayah")
+print("312210309")
+```
 
 ![Screenshot (606)](https://user-images.githubusercontent.com/115686359/200100569-813710bb-55fe-4214-b7d6-ae7f78558250.png)
 
 ### Latihan 2
 
+```
+max=0
+while True:
+    a=int(input ('masukkan bilangan ='))
+    if max < a:
+        max=a
+    if a==0:
+        break
+print('bilangan terbesar adalah', max)
+```
+
 ![Screenshot (613)](https://user-images.githubusercontent.com/115686359/200101109-3932bb09-10ab-4335-9aec-b9f89dea19b8.png)
 
 ### Program 1
+
+```
+a = 1000000000
+for x in range (1,9):
+    if(x>=1 and x<=2):
+        b=a*0
+        print('laba bulan ke-',x,'sebesar:',b)
+
+    if(x>=3 and x<=4):
+        c=a*0.1
+        print('laba bulan ke-',x,'sebesar:',c)
+    if(x >= 5 and x <= 7):
+        d= a*0.5
+        print('laba bulan ke-', x, 'sebesar:',d)
+    if (x==8):
+         e=a*0.2
+         print('laba bulan ke-',x,'sebesar:',e)
+total=b+b+c+c+d+d+d+e
+print('/n total laba adalah:',total)
+print("avrillia nur hiadayah")
+print("NIM:312210309")
+```
 
 ![Screenshot (611)](https://user-images.githubusercontent.com/115686359/200101167-c9b87b4b-e408-4f41-b5ac-ca8e7afb46a1.png)
 
